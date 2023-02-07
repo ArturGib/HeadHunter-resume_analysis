@@ -7,8 +7,9 @@
 **В ходе работы были:** 
 * исследована структура данных
 * выполнены преобразования столбцов 
-* исследованы зависимости данных, посредством визуализации
+* исследованы зависимости в данных, посредством визуализации
 * произведена очистка данных
 
+**Ссылки на данные:**
 * [База с резюме](https://drive.google.com/file/d/1iRh8yyjDpbxLsinNZxzLpGooNJBq_3ih/view?usp=share_link)
 * [База валют](https://drive.google.com/file/d/1Z3eS4SwefGzUFMhuXFkg50UzABWjO6gl/view?usp=share_link)
